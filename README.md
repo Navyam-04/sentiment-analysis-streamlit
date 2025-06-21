@@ -165,7 +165,7 @@ streamlit run app/app.py
 | Data Preprocessing  | ✅ Completed | NLTK |
 | Feature Engineering | ✅ Completed | TF-IDF |
 | Model Training      | ✅ Completed | Logistic Regression |
-| Model Evaluation    | ✅ Completed | 85% accuracy |
+| Model Evaluation    | ✅ Completed | 91% accuracy |
 | Streamlit App       | ✅ Completed | Beautiful UI |
 | Deployment          | ✅ Completed | Streamlit Cloud |
 
